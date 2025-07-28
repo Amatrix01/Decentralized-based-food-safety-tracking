@@ -49,3 +49,7 @@ IPFS integration for storing certificates and test results
 Mobile app for QR code scanning by consumers
 Oracle integration for external data sources
 Multi-chain deployment for global supply chains
+
+
+<img width="1920" height="1080" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/eff3eea4-796e-46ad-af50-035711e5f5a0" />
+
